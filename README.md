@@ -1,5 +1,5 @@
 # Dinner_AllAverage
-AA 制分攤計算機 App
+吃飯 AA 制  - AA 制分攤計算機 App
 
 AA制是什麼意思？
 
