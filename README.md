@@ -1,6 +1,8 @@
 # Dinner_AllAverage
 吃飯 AA 制  - AA 制分攤計算機 App
 
+<img src="https://i.imgur.com/w64TnMl.jpg" width=25% height=25%>
+
 AA制是什麼意思？
 
 AA制，意思是活動的參與者事前約定「平均分擔所需費用」。通常用於飲食聚會飯局或旅遊等活動場合。
