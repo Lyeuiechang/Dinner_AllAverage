@@ -1,11 +1,7 @@
 # Dinner_AllAverage
 吃飯 AA 制  - AA 制分攤計算機 App
 
-亮色模式
-<img src="https://i.imgur.com/w64TnMl.jpg" width=25% height=25%>
-
-暗色模式
-<img src="https://i.imgur.com/iyEWdbg.jpg" width=25% height=25%>
+亮色模式 <img src="https://i.imgur.com/w64TnMl.jpg" width=25% height=25%> 暗色模式 <img src="https://i.imgur.com/iyEWdbg.jpg" width=19% height=25%>
 
 AA制是什麼意思？
 
