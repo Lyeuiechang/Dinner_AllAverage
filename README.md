@@ -1,6 +1,10 @@
 # Dinner_AllAverage
 吃飯 AA 制  - AA 制分攤計算機 App
 
+AA 制計算機已經改名為拆帳計算機，請至以下雙平台的專案區查看：
+iOS https://github.com/Lyeuiechang/Split-Bills-Calculator-iOS
+Android https://github.com/Lyeuiechang/Split-Bills-Calculator-Android
+
 亮色模式 <img src="https://i.imgur.com/w64TnMl.jpg" width=25% height=25%> 暗色模式 <img src="https://i.imgur.com/iyEWdbg.jpg" width=19% height=25%>
 
 AA制是什麼意思？
